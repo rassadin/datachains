@@ -1,0 +1,30 @@
+{
+    "name": "datachains.js",
+    "description": "Datachains.js Library",
+    "version": "0.1.0",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rassadin/datachains.git"
+    },
+    "author": "Nik Rassadin <rassadin@gmail.com> (nikrasasdin@gmail.com)",
+    "directories": {
+        "lib": "./lib",
+	"perf": "./perf",
+        "test": "./test"
+    },
+    "engines": {
+        "node": ">=0.6||>=0.8"
+    },
+    "devDependencies": {
+        "mocha": ">=1.4.0",
+        "should": ">=2.0.0",
+        "jscoverage": ">=0.3.0",
+    },
+    "dependencies": {},
+    "optionalDependencies": {
+        "markdown": ">=0.5.0"
+    },
+    "subdomain": "datachains",
+    "domains": []
+}

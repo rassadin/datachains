@@ -1,0 +1,6 @@
+todo.*
+
+lib-cov/
+test/coverage.html
+
+node_modules/
